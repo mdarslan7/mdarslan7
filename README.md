@@ -27,6 +27,9 @@
 
 ## Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarslan7&layout=compact)](https://github.com/mdarslan7)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarslan7&layout=compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdarslan7&show_icons=true&locale=en)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdarslan7)
 
