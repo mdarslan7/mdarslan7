@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/md_arslan7" target="blank"><img src="https://img.shields.io/twitter/follow/md_arslan7?logo=twitter&style=for-the-badge" alt="md_arslan7" /></a> </p>
 
-- 🔭 I’m currently working on [EcoCreds](https://github.com/orgs/ECO-CREDS/repositories)
+- 🔭 I’m currently building [EcoCreds](https://github.com/orgs/ECO-CREDS/repositories)
 
-- 🌱 I’m currently learning **MERN Stack & web3/Blockchain Development**
+- 🌱 I’m presently learning **MERN Stack & web3/Blockchain Development**
 
 - 📝 I write articles on [https://mdarslan7.hashnode.dev/](https://mdarslan7.hashnode.dev/)
 
 - 💬 Let's Geek out about **programming & decentralization**
 
-- ⚡ Fun fact **people say that I am boring**
+- ⚡ Fun fact: **I can eat Biryani everyday😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
