@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [https://mdarslan7.hashnode.dev/](https://mdarslan7.hashnode.dev/)
 
-- 💬 Let's Geek out about **programming & decentralization**
+- 💬 Let's Talk about **Technology, Philosophy & Books📚**
 
 - ⚡ Fun fact: **I can eat Biryani everyday😋**
 
