@@ -1,5 +1,5 @@
-<h1 id="hi-im-arslan" align="center">Hi 👋, I'm Arslan</h1>
-<h3 id="a-tech-savvy-guy-from-india" align="center">A Tech-Savvy Guy from India</h3>
+<h1 id="" align="center">Hi 👋, I'm Arslan</h1>
+<h3 id="" align="center">A Tech-Savvy Guy from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarslan&label=Profile%20views&color=0e75b6&style=flat" alt="mdarslan" /> </p>
 
