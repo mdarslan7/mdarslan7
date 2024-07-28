@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarslan&label=Profile%20views&color=0e75b6&style=flat" alt="mdarslan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/md_arslan7" target="blank"><img src="https://img.shields.io/twitter/follow/md_arslan7?logo=twitter&style=for-the-badge" alt="md_arslan7" /></a> </p>
-
 - 🌱 I’m presently learning **Advanced Backend Development & DevOps**
 
 - 📝 I write articles on [https://mdarslan7.hashnode.dev/](https://mdarslan7.hashnode.dev/)
