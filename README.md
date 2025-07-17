@@ -1,6 +1,10 @@
 # About Me:
-🔭 **I’m currently working on:**  <br>Typescript, Microservices Architecture & AI Agents.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack Projects.<br><br>🌱 **I’m presently learning:**  <br>Advanced Backend Development, DevOps & Applied AI.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js, WSL & AWS.<br><br>⚡ **Fun fact:**  <br>I can eat biryani everyday.
-
+🔭 **I’m currently working on:**  <br>Typescript, Microservices Architecture & AI Agents.<br><br>
+👯 **I’m looking to collaborate on:**  <br>Fullstack Projects.<br><br>
+🌱 **I’m presently learning:**  <br>Advanced Backend Development, DevOps, Cloud Security & Applied AI.<br><br>
+🛡️ **Also exploring:**  <br>Cloud misconfigurations, auth vulnerabilities, and detection engineering using AWS & open-source tooling.<br><br>
+💬 **Ask me about:**  <br>JavaScript, React, Node.js, WSL, AWS & securing cloud-native systems.<br><br>
+⚡ **Fun fact:**  <br>I can eat biryani everyday.
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/md_arslan7) 
