@@ -2,7 +2,6 @@
 🔭 **I’m currently working on:**  <br>Typescript, Microservices Architecture & AI Agents.<br><br>
 👯 **I’m looking to collaborate on:**  <br>Fullstack Projects.<br><br>
 🌱 **I’m presently learning:**  <br>Advanced Backend Development, DevOps, & Applied AI.<br><br>
-🛡️ **Also exploring:**  <br>Cloud security, auth flaws & detection engineering with AWS and open-source tools.<br><br>
 💬 **Ask me about:**  <br>JavaScript, React, Node.js, WSL and AWS.<br><br>
 ⚡ **Fun fact:**  <br>I can eat biryani everyday.
 
